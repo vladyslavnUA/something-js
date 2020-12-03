@@ -1,5 +1,5 @@
 # something-js
-A simple arithmetic javascript library
+A simple arithmetic javascript library.
 
 [![npm version](https://badge.fury.io/js/somethingjs.svg)](https://badge.fury.io/js/somethingjs)
 
@@ -24,4 +24,4 @@ var division = somethingjs.dividePls(10, 5)  // returns 2
 ```
 
 ## License
-MIT
+[MIT](https://github.com/vladyslavnUA/something-js/blob/main/LICENSE)
