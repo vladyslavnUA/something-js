@@ -1,7 +1,7 @@
 # something-js
 A simple arithmetic javascript library.
 
-[![npm version](https://badge.fury.io/js/somethingjs.svg)](https://badge.fury.io/js/somethingjs)
+![npm](https://img.shields.io/npm/v/somethingjs)
 
 ## Install
 ```
