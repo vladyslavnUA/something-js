@@ -1,4 +1,4 @@
-# something-js
+# Somethingjs
 A simple arithmetic javascript library.
 
 ![npm](https://img.shields.io/npm/v/somethingjs)
