@@ -23,5 +23,8 @@ var multiplication = somethingjs.multiplyPls(4, 4)  // returns 16
 var division = somethingjs.dividePls(10, 5)  // returns 2
 ```
 
+## Support
+If any issues appear, feel free to open a [new ticket](https://github.com/vladyslavnUA/something-js/issues/new).
+
 ## License
 [MIT](https://github.com/vladyslavnUA/something-js/blob/main/LICENSE)
