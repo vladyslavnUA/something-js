@@ -2,6 +2,7 @@
 A simple arithmetic javascript library.
 
 ![npm](https://img.shields.io/npm/v/somethingjs)
+![npm](https://img.shields.io/npm/dw/somethingjs)
 
 ## Install
 ```
